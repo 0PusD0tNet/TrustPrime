@@ -60,4 +60,4 @@
 Программа предоставляется **«как есть»**. Разработчики не несут ответственности за возможные последствия использования. Все права защищены © TrustPrime.
 
 ---
- Есть идеи или нашли баг? Откройте [Issue](https://github.com/0PusD0tNet/trustprime/issues) или напишите в наш [Telegram](https://t.me/trustprimeideas).
+ Есть идеи или нашли баг? Откройте [Issue](https://github.com/0PusD0tNet/trustprime/issues) или напишите в наш [Telegram](https://t.me/+rAwCQCoScr05N2Ji).
